@@ -1,0 +1,10 @@
+*.o
+*.so
+*.a
+build/
+.env
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
+node_modules/
